@@ -17,6 +17,8 @@ export default {
   confirmMessage: 'Are you sure you want to {{name}}?',
   successfulOperation: 'Successful operation',
   successfullyDeleted: 'Successfully deleted',
+  checkAll: 'Check all',
+  checkAllWarning: 'Table filter must check one',
   fullScreen: 'Full screen',
   exitFullscreen: 'Exit fullscreen',
   themes: 'Themes',
